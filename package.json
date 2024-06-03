@@ -1,0 +1,9 @@
+{
+  "name": "sm-tt",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'Nope!'"
+  },
+  "author": "lxchurbakov",
+  "license": "MIT"
+}
