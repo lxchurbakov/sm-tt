@@ -5,5 +5,8 @@
     "dev": "echo 'Nope!'"
   },
   "author": "lxchurbakov",
-  "license": "MIT"
+  "license": "MIT",
+  "workspaces": [
+    "client"
+  ]
 }
